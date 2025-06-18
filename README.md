@@ -1,4 +1,4 @@
-👋 Hello, I'm Leonardo Marques
+# 👋 Hello, I'm Leonardo Marques
 
 ## 🛠️ Network Engineer | CCNA Certified | Lifelong Learner
 
@@ -16,9 +16,7 @@ I'm a passionate Network Engineer focused on designing, configuring, and securin
 
 ### 📁 Featured Repositories
 <!-- Replace these links with actual repos you create -->
-- [`Cisco-Home-Lab`](https://github.com/yourusername/Cisco-Home-Lab) — Full network topology with Router, Switch & AP configs + Visio diagrams
-- [`CCNA-Study-Toolkit`](https://github.com/yourusername/CCNA-Study-Toolkit) — Study notes, labs, and packet tracer files for exam prep
-- [`Network-Automation-Playground`](https://github.com/yourusername/Network-Automation-Playground) — Automating network tasks with Python & Ansible
+- [`Cisco-Home-Lab`](https://github.com/leomarqueslima/ccnahomelab.git) — Full network topology with Router, Switch & AP configs + Visio diagrams
 
 ---
 
@@ -34,18 +32,21 @@ I'm a passionate Network Engineer focused on designing, configuring, and securin
 
 ### 🌱 Currently Learning
 - 🔐 Network Security (Firewalls, ACLs, VPNs)
-- 🧠 Advanced Routing Protocols (EIGRP, OSPF, BGP)
+- 🧠 Advanced Routing Protocols (EIGRP, BGP)
 - 📦 Docker for NetOps Labs
+- 🐧 Linux for networking and automation
+- 🧪 Postman for API testing
+- ⚙️ Ansible for infrastructure automation
 
 ---
 
 ### 📫 How to Reach Me:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)  
-📧 leonardo.networking@example.com
+[![LinkedIn](www.linkedin.com/in/leonardo-marques-lima-network)  
+📧 leomarqueslima@proton.me
 
 ---
 
-> “Those who understand networking will rule the digital world.”  
-> — *Anonymous*
+> “You have power over your mind - not outside events. Realize this, and you will find strength.”
+― Marcus Aurelius, Meditations 
 
 🖥️ Always tinkering. Always learning.
