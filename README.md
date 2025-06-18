@@ -42,6 +42,7 @@ I'm a passionate Network Engineer focused on designing, configuring, and securin
 
 ### 📫 How to Reach Me:
 [![LinkedIn](www.linkedin.com/in/leonardo-marques-lima-network)  
+
 📧 leomarqueslima@proton.me
 
 ---
